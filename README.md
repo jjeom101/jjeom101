@@ -1,16 +1,24 @@
-## Hi there 👋
+<h1>안녕하세요, 웹 개발자입니다!</h1>
+<p>
+저는 웹 개발 분야에 첫발을 내딛은 신입 개발자입니다.
+아직 많은 경험을 쌓아가는 단계이지만, 자기소개 페이지와 팬션 예약 웹사이트를 직접 제작하며
+실제 서비스를 구현하는 과정을 통해 배우고 성장하고 있습니다.
+깔끔하고 효율적인 코드를 작성하는 것을 목표로 하며, 앞으로 다양한 프로젝트와 학습을 통해
+꾸준히 발전하는 개발자가 되고자 합니다
+</p>
 
-<!--
-**jjeom101/jjeom101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2>기술 스택</h2>
+<p>
+     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>&nbsp
+    <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/>&nbsp
+    <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=white"/>&nbsp
+    <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white"/>&nbsp
+   
+</p>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2>프로젝트</h2>
+<ul style="list-style: none; padding: 0;">
+    <li><a href="https://github.com/ZeroBin-dev/MYMSG_BE">프로젝트 1 -펜션예약사이트 </a></li>
+   
+    
+</ul>
