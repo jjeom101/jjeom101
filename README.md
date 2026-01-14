@@ -46,22 +46,20 @@ Spring Boot 기반 포트폴리오 판매 사이트
 👉 https://github.com/chchjjj/teamProject
 
 
-GitHub: 디저트연구소 바로가기 
 
-### 📱 SNS 서비스 (Personal Project)
+###👕 오늘 어때? (Team Project)
 
-React 기반 실시간 소통 및 운동 추천 플랫폼 
+Flutter 기반 모바일 애플리케이션
 
+역할: 마이페이지·알림 UI 개발, 사용자 정보 수정 및 위치 즐겨찾기 기능 담당
 
-핵심 기능: JWT 인증, 1:1 실시간 채팅, Gemini API 기반 운동 추천 
+핵심 경험: 위치 기반 데이터 처리와 비동기 API 연동을 통해 실시간 알림 기능 구현
 
-
-핵심 경험: 로그 기반 디버깅을 통한 데이터 저장 오류 해결 및 AWS 배포 
 
 🔗 GitHub  
 👉 https://github.com/hyeokjun9035/flutterproject_team2
 
-### 📱 SNS 서비스 (개인 프로젝트)
+### 📱 SNS 서비스 (Team Project)
 **React 기반 SNS + 실시간 채팅 + AWS 배포**
 
 - 회원가입 / 로그인 (JWT 인증)
